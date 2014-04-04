@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_game">Find Game</string>
+    <string name="lose">YOU LOST! HA! </string>
+    <string name="win">YOU WIN!!! (but it\'s just a game of tic tac toe)</string>
+    <string name="tie">It\'s a tie.. well that\'s boring..</string>
+    <string name="return_home">Return to Home Screen</string>
+    <string name="game_over">Game Over</string>
+    <string name="finding">Finding Game..</string>
+    <string name="your_turn">Your Turn</string>
+    <string name="waiting">Waiting for Opponent..</string>
+
+</resources>
